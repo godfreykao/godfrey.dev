@@ -1,41 +1,6 @@
-# Website
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+# Godfrey.Dev
+這網站記錄著一些反芻後的程式筆記，以及隨筆文章。
+範圍主要是web前後端，
+希望未來能產出更多有深度的筆記與文章，例如架構設計..等
+若能幫到各位，是我的榮幸，
+若資訊有誤，還請不吝指正。

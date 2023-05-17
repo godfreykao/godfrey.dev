@@ -127,7 +127,7 @@ const config = {
           },
         ],
         */
-        copyright: `Copyright © ${new Date().getFullYear()} Godfrey.Dev, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Godfrey.Codes, Inc. Built with Docusaurus.`,
       },
       prism: {
         //theme: lightCodeTheme,

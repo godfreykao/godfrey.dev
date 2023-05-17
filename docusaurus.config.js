@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Godfrey.Dev',
+  title: 'Godfrey.Codes',
   tagline: '關於筆記以及一些隨筆',
   favicon: 'img/favicon.ico',
 

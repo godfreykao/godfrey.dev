@@ -44,5 +44,5 @@ export default function Home() {
 */
 
 export default function Home() {
-  return <Redirect to="/docs" />;
+  return <Redirect to="/docs/index" />;
 };
